@@ -134,3 +134,36 @@ main section{
 #what-description{
     padding: 30px 140px;
 }
+/* resume section style */
+.resume-col-title{
+    color:  #474747;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Open Sans;
+    max-resolution: 10px;
+  
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-item-des, .resume-ins{
+    color:  #757575;
+}
+.resume-item-title{
+    color:  #474747;
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.resume-container{
+    margin: 30px;
+}
+.resume-ins{
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
